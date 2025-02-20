@@ -53,7 +53,7 @@
 <h2 align="center">Follow Me</h2>
 
 <div align="center">
-  <a href="https://github.com/ToineYT/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
   <a href="https://www.twitch.tv/toineyt_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://www.instagram.com/toine_yt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@toineyt"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>

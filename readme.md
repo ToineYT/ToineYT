@@ -42,12 +42,6 @@
   <a href="https://github.com/ToineYT/FXCommand">
     <img height="200" src="./assets/img/fxcommand.png" alt="FXCommand" />
   </a>
-  
-  <h3>🌐 NodaHeberg Website</h3>
-  <p>I redesigned NodaHeberg's website to make it more modern, intuitive, and user-friendly.</p>
-  <a href="https://nodaheberg.fr">
-    <img height="200" src="./assets/img/noda.png" alt="NodaHeberg" />
-  </a>
 </div>
 
 <h2 align="center">FiveM Store (Coming Soon)</h2>
